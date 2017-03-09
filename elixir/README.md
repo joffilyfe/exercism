@@ -9,3 +9,4 @@ This repository will cover resolution of exercism.io problems about Elixir.
 |Day 1   |[Nucleotide Count](https://github.com/joffilyfe/exercism/tree/master/elixir/nucleotide-count)	|
 |Day 2   |[Space Age](https://github.com/joffilyfe/exercism/tree/master/elixir/space-age)	|
 |Day 3   |[Bob](https://github.com/joffilyfe/exercism/tree/master/elixir/bob)	|
+|Day 4   |[Word Count](https://github.com/joffilyfe/exercism/tree/master/elixir/word-count)	|
