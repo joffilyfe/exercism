@@ -11,3 +11,4 @@ This repository will cover resolution of exercism.io problems about Elixir.
 |Day 3   |[Bob](https://github.com/joffilyfe/exercism/tree/master/elixir/bob)	|
 |Day 4   |[Word Count](https://github.com/joffilyfe/exercism/tree/master/elixir/word-count)	|
 |Day 5   |[Accumulate (Meta programming)](https://github.com/joffilyfe/exercism/tree/master/elixir/accumulate)	|
+|Day 6   |[Acronym](https://github.com/joffilyfe/exercism/tree/master/elixir/acronym)	|
