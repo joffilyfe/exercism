@@ -13,3 +13,4 @@ This repository will cover resolution of exercism.io problems about Elixir.
 |Day 5   |[Accumulate (Meta programming)](https://github.com/joffilyfe/exercism/tree/master/elixir/accumulate)	|
 |Day 6   |[Acronym](https://github.com/joffilyfe/exercism/tree/master/elixir/acronym)	|
 |Day 7   |[Series](https://github.com/joffilyfe/exercism/tree/master/elixir/series)	|
+|Day 8   |[Rotational Cipher](https://github.com/joffilyfe/exercism/tree/master/elixir/rotational-cipher)	|
