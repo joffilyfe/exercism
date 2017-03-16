@@ -15,3 +15,4 @@ This repository will cover resolution of exercism.io problems about Elixir.
 |Day 7   |[Series](https://github.com/joffilyfe/exercism/tree/master/elixir/series)	|
 |Day 8   |[Rotational Cipher](https://github.com/joffilyfe/exercism/tree/master/elixir/rotational-cipher)	|
 |Day 9   |[Protein Translation](https://github.com/joffilyfe/exercism/tree/master/elixir/protein-translation)	|
+|Day 10   |[Raindrops](https://github.com/joffilyfe/exercism/tree/master/elixir/raindrops)	|
