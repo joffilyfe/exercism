@@ -17,3 +17,4 @@ This repository will cover resolution of exercism.io problems about Elixir.
 |Day 9   |[Protein Translation](https://github.com/joffilyfe/exercism/tree/master/elixir/protein-translation)	|
 |Day 10   |[Raindrops](https://github.com/joffilyfe/exercism/tree/master/elixir/raindrops)	|
 |Day 11   |[Run Length Encoding](https://github.com/joffilyfe/exercism/tree/master/elixir/run-length-encoding)	|
+|Day 12   |[Sublist](https://github.com/joffilyfe/exercism/tree/master/elixir/sublist)	|
